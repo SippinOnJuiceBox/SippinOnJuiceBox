@@ -6,4 +6,4 @@
 
 Hi, I am Eshan. I code Discord bots, AI's, Minecraft Mods/Plugins, Roblox Games, Unity Games, Arduinos and a boatload of other stuff. I love procedural generation and nice looking user interfaces. 
 
-My primary coding languages are Python, Java, Lua and C# but I understand many others. I like videogames (a lot) and primarily play games like Minecraft, Roblox, CSGO and RainbowSix, <code>Dm me on Discord at krab#0001 if you need anything.<code>
+My primary coding languages are Python, Java, Lua and C# but I understand many others. I like videogames (a lot) and primarily play games like Minecraft, Roblox, CSGO and RainbowSix. Dm me on Discord at <code>krab#0001</code> if you need anything.
