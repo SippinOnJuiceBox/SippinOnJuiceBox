@@ -1,6 +1,6 @@
 <p><img src="https://github.com/SippinOnJuiceBox/SippinOnJuiceBox/blob/main/Background.png?raw=true" alt="Eshan Betrabet">
   <p align="center">
-<p><img src="https://github.com/SippinOnJuiceBox/SippinOnJuiceBox/blob/main/Links.png?raw=true" alt="Links">
+<p><img src="https://github.com/SippinOnJuiceBox/SippinOnJuiceBox/blob/main/Links.png?raw=true" width="158" height="50" alt="Links">
   <p align="center">
 <a href="https://twitter.com/JuiceBoxDev"><img src="https://github.com/SippinOnJuiceBox/SippinOnJuiceBox/blob/main/Twitter.png?raw=true" width="138" height="36" alt="Twitter"></a>
 <a href="https://steamcommunity.com/profiles/76561198436448534/"><img src="https://github.com/SippinOnJuiceBox/SippinOnJuiceBox/blob/main/Steam.png?raw=true" width="138" height="36" alt="Twitter"></a>
