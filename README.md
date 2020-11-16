@@ -1,4 +1,4 @@
-<p><img src="https://github.com/SippinOnJuiceBox/SippinOnJuiceBox/blob/main/Background.png?raw=true" alt="Eshan Betrabet">
+<p><img src="https://raw.githubusercontent.com/SippinOnJuiceBox/SippinOnJuiceBox/25b450d0002b47ff8aa0baaff22daddc545ce4d6/draasdwing.svg" alt="Eshan Betrabet">
   <p align="center">
 <a href="https://twitter.com/JuiceBoxDev"><img src="https://github.com/SippinOnJuiceBox/SippinOnJuiceBox/blob/main/Twitter.png?raw=true" width="138" height="36" alt="Twitter"></a>
 <a href="https://steamcommunity.com/profiles/76561198436448534/"><img src="https://github.com/SippinOnJuiceBox/SippinOnJuiceBox/blob/main/Steam.png?raw=true" width="138" height="36" alt="Twitter"></a>
@@ -11,3 +11,4 @@ My primary coding languages are Python, Java, Lua and C# but I understand many o
 <a href="https://github.com/SippinOnJuiceBox">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SippinOnJuiceBox&theme=light&hide_langs_below=1" />
 </a>
+
