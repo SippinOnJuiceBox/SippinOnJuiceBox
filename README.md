@@ -1,4 +1,4 @@
-<p><img src="https://github.com/rishiosaur/rishiosaur/raw/master/rishireadme.png" alt="Rishi">
+<p><img src="https://github.com/SippinOnJuiceBox/SippinOnJuiceBox/blob/main/Background.png?raw=true" alt="Rishi">
   <p align="center">
 <a href="https://linkedin.com/in/heyrishi/"><img src="https://img.shields.io/badge/-heyrishi-510aed?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://linkedin.com/in/heyrishi/" alt="Linkedin"></a>
 <a href="https://instagram.com/rishi.cx/"><img src="https://img.shields.io/badge/-rishi.cx-df48ff?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white&amp;link=https://instagram.com/rishi.cx/" alt="Instagram"></a>
