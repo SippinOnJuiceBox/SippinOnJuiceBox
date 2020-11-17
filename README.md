@@ -10,10 +10,10 @@ My primary coding languages are Python, Java, Lua and C# but I understand many o
 
 <div class="row">
   <div class="column">
-    <img src="https://raw.githubusercontent.com/SippinOnJuiceBox/SippinOnJuiceBox/dc511e833768a49ac85e3f67b0c2f3f2de57910e/info.svg" alt="Info" style="width:50%">
+    <img src="https://raw.githubusercontent.com/SippinOnJuiceBox/SippinOnJuiceBox/dc511e833768a49ac85e3f67b0c2f3f2de57910e/info.svg" alt="Info" style="float: left; height: 15em; margin-right: 1%; margin-bottom: 0.5em;">
   </div>
   <div class="column">
-    <img src="https://raw.githubusercontent.com/SippinOnJuiceBox/SippinOnJuiceBox/06fcabcc66e0f18d801cb1c5f727c98a8e8fe529/aboutme.svg" alt="Aboutme" style="width:100%">
+    <img src="https://raw.githubusercontent.com/SippinOnJuiceBox/SippinOnJuiceBox/06fcabcc66e0f18d801cb1c5f727c98a8e8fe529/aboutme.svg" alt="Aboutme" style="float: left; height: 15em; margin-right: 1%; margin-bottom: 0.5em;">
   </div>
 </div>
 
