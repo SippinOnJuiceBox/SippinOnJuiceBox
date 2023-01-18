@@ -3,6 +3,6 @@
 
 - 🔭 I’m currently working on **Rocket Software @ CarletonURocketry 😎**
 
-- 🌱 I’m currently learning **Swift & AR Kit**
+- 🌱 I’m currently learning **Three.JS & Rust**
 
 - 💬 Discord: krab#0001
