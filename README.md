@@ -5,4 +5,4 @@
 
 - 🌱 I’m currently learning **Three.JS & Rust**
 
-- 💬 Discord: krab#0001
+- 💬 Discord: eshanb#0339
